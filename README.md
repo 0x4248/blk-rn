@@ -1,5 +1,5 @@
 # BLK-RN
-A lightweight bulk rename tool for Linux
+A quick and easy way to bulk rename files in linux.
 
 ## Usage
 ```

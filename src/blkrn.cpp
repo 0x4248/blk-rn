@@ -5,7 +5,6 @@
  * By: Lewis Evans
  */
 
-
 #include <filesystem>
 #include <iostream>
 #include <string.h>

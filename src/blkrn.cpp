@@ -1,6 +1,10 @@
-// BLK-RN  - A lightweight bulk rename tool for Linux
-// Github: https://www.github.com/awesomelewis2007/blk-rn
-// If there are any issues please report them on the github page
+/* BLK-RN
+ * A lightweight bulk rename tool for Linux
+ * Github: https://www.github.com/awesomelewis2007/blk-rn
+ * Licence: GNU General Public License v3.0
+ * By: Lewis Evans
+ */
+
 
 #include <filesystem>
 #include <iostream>

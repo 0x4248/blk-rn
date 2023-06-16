@@ -1,4 +1,8 @@
-# blk-rn makefile
+# BLK-RN
+# A lightweight bulk rename tool for Linux
+# Github: https://www.github.com/awesomelewis2007/blk-rn
+# Licence: GNU General Public License v3.0
+# By: Lewis Evans
 TEST_MODE = -1
 TEST_ARGS = -v
 RUN_ARGS = -v

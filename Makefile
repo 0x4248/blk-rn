@@ -6,7 +6,7 @@ RUN_ARGS = -v
 all: compile run
 
 compile:
-	g++ -o blk-rn blkrn.cpp --std=gnu++17
+	g++ -o blk-rn src/blkrn.cpp --std=gnu++17
 
 clean:
 	rm -f blk-rn

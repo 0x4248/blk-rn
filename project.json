@@ -1,0 +1,15 @@
+{
+    "name": "blk-rn",
+    "description": "A quick and easy way to bulk rename files in linux.",
+    "version": "1.0",
+    "main_file": "src/blkrn.cpp",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "https://www.github.com/awesomelewis2007/blk-rn",
+    "email": "none",
+    "languages": [
+        "python",
+        "c++"
+    ],
+    "actions": {}
+}

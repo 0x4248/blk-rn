@@ -16,6 +16,6 @@ blk-rn [options]
     Print verbose messages
 ```
 
-## License
+## Licence
 
 This project is licenced under GPL-3.0. See [LICENCE](LICENCE) for more information.

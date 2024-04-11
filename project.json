@@ -3,9 +3,9 @@
     "description": "A quick and easy way to bulk rename files in linux.",
     "version": "",
     "main_file": "src/blkrn.cpp",
-    "author": "Lewis Evans",
+    "author": "0x4248",
     "license": "GNU General Public License v3.0",
-    "url": "https://www.github.com/lewisevans2007/blk-rn",
+    "url": "https://www.github.com/0x4248/blk-rn",
     "email": "none",
     "languages": [
         "python",
